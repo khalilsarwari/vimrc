@@ -384,3 +384,4 @@ endfunction
 tnoremap <Esc><Esc> <C-\><C-n>
 set number
 set signcolumn=no
+set splitbelow
