@@ -382,3 +382,5 @@ function! VisualSelection(direction, extra_filter) range
     let @" = l:saved_reg
 endfunction
 tnoremap <Esc><Esc> <C-\><C-n>
+set number
+set signcolumn=no
