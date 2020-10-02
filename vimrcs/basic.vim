@@ -385,3 +385,4 @@ tnoremap <Esc><Esc> <C-\><C-n>
 set number
 set signcolumn=no
 set splitbelow
+let g:python_highlight_all = 1
