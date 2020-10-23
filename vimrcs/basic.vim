@@ -336,4 +336,4 @@ set splitbelow
 let g:python_highlight_all = 1
 imap jk <Esc>
 imap kj <Esc>
-set mouse=v
+set mouse=a
